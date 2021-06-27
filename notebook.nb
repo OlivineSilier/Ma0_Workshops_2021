@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     25897,        507]
-NotebookOptionsPosition[     24487,        477]
-NotebookOutlinePosition[     24828,        492]
-CellTagsIndexPosition[     24785,        489]
+NotebookDataLength[     25950,        508]
+NotebookOptionsPosition[     24540,        478]
+NotebookOutlinePosition[     24881,        493]
+CellTagsIndexPosition[     24838,        490]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -27,7 +27,7 @@ b6b1d8498221"],
 
 Cell["\<\
 Write your own title!
-
+hi
 Idea: comprehensive guide how to install ( day before the session) can ask on \
 Discord if stuck 
 1 90 min session to go through the notebook
@@ -35,7 +35,8 @@ Discord if stuck
 \>", "Text",
  CellChangeTimes->{{3.8338234214898605`*^9, 3.8338234264417315`*^9}, {
   3.833823709902973*^9, 3.833823724720707*^9}, {3.833823827892169*^9, 
-  3.8338238697656493`*^9}},ExpressionUUID->"a541c339-4351-46c8-aa33-\
+  3.8338238697656493`*^9}, {3.8338252022608204`*^9, 
+  3.833825202312953*^9}},ExpressionUUID->"a541c339-4351-46c8-aa33-\
 44301d1f4a69"],
 
 Cell["\<\
@@ -493,21 +494,21 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 151, 3, 96, "Title",ExpressionUUID->"fdd56695-b3d4-4ce8-a78c-b6b1d8498221"],
-Cell[734, 27, 416, 11, 122, "Text",ExpressionUUID->"a541c339-4351-46c8-aa33-44301d1f4a69"],
-Cell[1153, 40, 289, 7, 34, "Text",ExpressionUUID->"5844e0ac-e06d-485d-a8fd-f00407cf6ff2"],
-Cell[1445, 49, 242, 6, 28, "Input",ExpressionUUID->"b5fa2560-eb9e-443f-b4b2-5a4a49d2391d"],
+Cell[734, 27, 469, 12, 122, "Text",ExpressionUUID->"a541c339-4351-46c8-aa33-44301d1f4a69"],
+Cell[1206, 41, 289, 7, 34, "Text",ExpressionUUID->"5844e0ac-e06d-485d-a8fd-f00407cf6ff2"],
+Cell[1498, 50, 242, 6, 28, "Input",ExpressionUUID->"b5fa2560-eb9e-443f-b4b2-5a4a49d2391d"],
 Cell[CellGroupData[{
-Cell[1712, 59, 196, 3, 28, "Input",ExpressionUUID->"c6587984-10eb-410a-b704-5d8bb3d1a88e"],
-Cell[1911, 64, 149, 2, 32, "Output",ExpressionUUID->"b6dd0e56-51a2-4306-8d62-796b46fdb223"]
+Cell[1765, 60, 196, 3, 28, "Input",ExpressionUUID->"c6587984-10eb-410a-b704-5d8bb3d1a88e"],
+Cell[1964, 65, 149, 2, 32, "Output",ExpressionUUID->"b6dd0e56-51a2-4306-8d62-796b46fdb223"]
 }, Open  ]],
-Cell[2075, 69, 236, 6, 34, "Text",ExpressionUUID->"58a17c1b-a62c-4d2d-bf96-f9620470b510"],
-Cell[2314, 77, 260, 6, 28, "Input",ExpressionUUID->"1eb19f4b-8d12-4163-b788-f8ef21c88124"],
+Cell[2128, 70, 236, 6, 34, "Text",ExpressionUUID->"58a17c1b-a62c-4d2d-bf96-f9620470b510"],
+Cell[2367, 78, 260, 6, 28, "Input",ExpressionUUID->"1eb19f4b-8d12-4163-b788-f8ef21c88124"],
 Cell[CellGroupData[{
-Cell[2599, 87, 318, 7, 28, "Input",ExpressionUUID->"56e46bcf-8d38-42dc-816e-e2c07c94afd5"],
-Cell[2920, 96, 20786, 360, 230, "Output",ExpressionUUID->"a7c286af-3b23-4fb6-8b5b-2d3e30652187"]
+Cell[2652, 88, 318, 7, 28, "Input",ExpressionUUID->"56e46bcf-8d38-42dc-816e-e2c07c94afd5"],
+Cell[2973, 97, 20786, 360, 230, "Output",ExpressionUUID->"a7c286af-3b23-4fb6-8b5b-2d3e30652187"]
 }, Open  ]],
-Cell[23721, 459, 194, 3, 34, "Text",ExpressionUUID->"86339eb9-fd1a-4507-b0d1-de19e3635e05"],
-Cell[23918, 464, 553, 10, 78, "Text",ExpressionUUID->"db42d783-1840-4832-a0c7-bca67e84d767"]
+Cell[23774, 460, 194, 3, 34, "Text",ExpressionUUID->"86339eb9-fd1a-4507-b0d1-de19e3635e05"],
+Cell[23971, 465, 553, 10, 78, "Text",ExpressionUUID->"db42d783-1840-4832-a0c7-bca67e84d767"]
 }, Open  ]]
 }
 ]
